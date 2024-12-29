@@ -1,0 +1,1 @@
+Developed a Quantum Error Correction system using Qiskit, achieving a 51.4% success rate for bit-flip error correction and 47.6% for phase-flip errors on IBM Quantum hardware. Implemented advanced circuit transpilation, leveraging optimization techniques, and executed 1,000-shot experiments on real quantum devices to validate the effectiveness of error correction codes.
